@@ -1,0 +1,134 @@
+.screen2 {
+    min-height: 100vh;
+    height: auto;
+}
+
+.screen2_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.screen2_text {
+    font-size: 4rem;
+    flex-direction: column;
+    display: flex;
+    padding: 7px;
+    margin: 5px;
+    margin: 0 auto;
+    justify-content: center;
+    font-family: Pretendard,sans-serif;
+}
+
+.screen2_img {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 6px;
+    gap: 10px;
+}
+
+.school_img {
+    width: 50vw;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.school_button{
+    width: 80px;
+    height: 60px;
+    position: relative;
+    transition: all 0.3s ease-in;
+    cursor: pointer;
+&:hover {
+    color: blueviolet;
+}}
+
+.scool_text {
+    transition: all 0.3s ease-in;
+    cursor: pointer;
+&:hover {
+    color: blueviolet;
+}}
+
+.school_b {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}
+
+.dot {
+    width: 7px;
+    height: 7px;
+    background-color: black;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.dot:nth-child(1) {
+    top: 50%;
+    left: 20%;
+}
+
+.dot:nth-child(2) {
+    top: 50%;
+    left: 30%;
+}
+
+.dot:nth-child(3) {
+    top: 50%;
+    left: 40%;
+}
+
+.dot:nth-child(4) {
+    top: 50%;
+    left: 60%;
+}
+
+.dot:nth-child(5) {
+    top: 40%;
+    left: 50%;
+}
+
+.dot:nth-child(6) {
+    top: 30%;
+    left: 40%;
+}
+
+.dot:nth-child(7) {
+    top: 60%;
+    left: 50%;
+}
+
+.dot:nth-child(8) {
+    top: 70%;
+    left: 40%;
+}
+
+.dot:nth-child(9) {
+    top: 50%;
+    left: 10%;
+}
+
+.line_with_text {
+    font-family: Pretendard,sans-serif;
+    color: white;
+    font-size: 4rem;
+    animation: scrollText 33s infinite linear;
+    transform: translate(0);
+}
+
+@keyframes scrollText {
+    from { transform: translateX(0%); }
+    to { transform: translateX(-100%); }
+  }
+
+.line_with_{
+    background-color: black;
+    height: 140px;
+    width: 100%;
+    margin-top: 80px;
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+}

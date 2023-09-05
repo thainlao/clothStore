@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "gender": ["male", "female"],
+      "type": "вверх",
+      "name": "White T-Shirt",
+      "price": "5300Р",
+      "image": "https://gabeclothing.ca/cdn/shop/files/DSC_0720-a.webp?v=1685382596&width=1946"
+    },
+    {
+      "id": 2,
+      "gender": ["male", "female"],
+      "type": "вверх",
+      "name": "Black T-Shirt",
+      "price": "7500Р",
+      "image": "https://fridaywear.ru/upload/resize_cache/webp/iblock/d14/3zw0ywtlyzzwen7ixuv0fxpzbdz5nfy4.webp"
+    },
+    {
+      "id": 3,
+      "gender": ["female"],
+      "type": "низ",
+      "name": "Blue Jeans",
+      "price": "6500Р",
+      "image": "https://example.com/images/blue-jeans.jpg"
+    },
+    {
+      "id": 4,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Black Jeans",
+      "price": "6800Р",
+      "image": "https://example.com/images/black-jeans.jpg"
+    },
+    {
+      "id": 5,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Red Dress",
+      "price": "7200Р",
+      "image": "https://example.com/images/red-dress.jpg"
+    },
+    {
+      "id": 6,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Winter Coat",
+      "price": "9500Р",
+      "image": "https://example.com/images/winter-coat.jpg"
+    },
+    {
+      "id": 7,
+      "gender": ["male"],
+      "type": "вверх",
+      "name": "Plaid Shirt",
+      "price": "4200Р",
+      "image": "https://example.com/images/plaid-shirt.jpg"
+    },
+    {
+      "id": 8,
+      "gender": ["female"],
+      "type": "низ",
+      "name": "Floral Skirt",
+      "price": "5600Р",
+      "image": "https://example.com/images/floral-skirt.jpg"
+    },
+    {
+      "id": 9,
+      "gender": ["male", "female"],
+      "type": "вверх",
+      "name": "Gray Sweater",
+      "price": "4800Р",
+      "image": "https://example.com/images/gray-sweater.jpg"
+    },
+    {
+      "id": 10,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Beach Shorts",
+      "price": "3200Р",
+      "image": "https://example.com/images/beach-shorts.jpg"
+    },
+    {
+      "id": 11,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Silk Blouse",
+      "price": "6100Р",
+      "image": "https://example.com/images/silk-blouse.jpg"
+    },
+    {
+      "id": 12,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Straw Hat",
+      "price": "2800Р",
+      "image": "https://example.com/images/straw-hat.jpg"
+    },
+    {
+      "id": 13,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "White Sneakers",
+      "price": "3800Р",
+      "image": "https://example.com/images/white-sneakers.jpg"
+    },
+    {
+      "id": 14,
+      "gender": ["female"],
+      "type": "низ",
+      "name": "Leather Sandals",
+      "price": "4500Р",
+      "image": "https://example.com/images/leather-sandals.jpg"
+    },
+    {
+      "id": 15,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Canvas Backpack",
+      "price": "5200Р",
+      "image": "https://example.com/images/canvas-backpack.jpg"
+    },
+    {
+      "id": 16,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Cargo Trousers",
+      "price": "5900Р",
+      "image": "https://example.com/images/cargo-trousers.jpg"
+    },
+    {
+      "id": 17,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Knit Cardigan",
+      "price": "4700Р",
+      "image": "https://example.com/images/knit-cardigan.jpg"
+    },
+    {
+      "id": 18,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Wool Scarf",
+      "price": "3600Р",
+      "image": "https://example.com/images/wool-scarf.jpg"
+    },
+    {
+      "id": 19,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Leather Belt",
+      "price": "2500Р",
+      "image": "https://example.com/images/leather-belt.jpg"
+    },
+    {
+      "id": 20,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Designer Purse",
+      "price": "8900Р",
+      "image": "https://example.com/images/designer-purse.jpg"
+    },
+    {
+      "id": 21,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Leather Gloves",
+      "price": "4200Р",
+      "image": "https://example.com/images/leather-gloves.jpg"
+    },
+    {
+      "id": 22,
+      "gender": ["male"],
+      "type": "вверх",
+      "name": "Denim Jacket",
+      "price": "7600Р",
+      "image": "https://example.com/images/denim-jacket.jpg"
+    },
+    {
+      "id": 23,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Tailored Blazer",
+      "price": "6400Р",
+      "image": "https://example.com/images/tailored-blazer.jpg"
+    },
+    {
+      "id": 24,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Cotton Socks",
+      "price": "800Р",
+      "image": "https://example.com/images/cotton-socks.jpg"
+    },
+    {
+      "id": 25,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Steel Watch",
+      "price": "5500Р",
+      "image": "https://example.com/images/steel-watch.jpg"
+    },
+    {
+      "id": 26,
+      "gender": ["female"],
+      "type": "низ",
+      "name": "Gold Earrings",
+      "price": "2900Р",
+      "image": "https://example.com/images/gold-earrings.jpg"
+    },
+    {
+      "id": 27,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Silver Necklace",
+      "price": "3900Р",
+      "image": "https://example.com/images/silver-necklace.jpg"
+    },
+    {
+      "id": 28,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Wool Hat",
+      "price": "2200Р",
+      "image": "https://example.com/images/wool-hat.jpg"
+    },
+    {
+      "id": 29,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Cashmere Shawl",
+      "price": "5300Р",
+      "image": "https://example.com/images/cashmere-shawl.jpg"
+    },
+    {
+      "id": 30,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Silk Tie",
+      "price": "3600Р",
+      "image": "https://example.com/images/silk-tie.jpg"
+    },
+    {
+      "id": 31,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Leather Wallet",
+      "price": "4200Р",
+      "image": "https://example.com/images/leather-wallet.jpg"
+    },
+    {
+      "id": 32,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Evening Gown",
+      "price": "9800Р",
+      "image": "https://example.com/images/evening-gown.jpg"
+    },
+    {
+      "id": 33,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Folding Umbrella",
+      "price": "2800Р",
+      "image": "https://example.com/images/folding-umbrella.jpg"
+    },
+    {
+      "id": 34,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Leather Backpack",
+      "price": "7500Р",
+      "image": "https://example.com/images/leather-backpack.jpg"
+    },
+    {
+      "id": 35,
+      "gender": ["female"],
+      "type": "верх",
+      "name": "Sun Hat",
+      "price": "3200Р",
+      "image": "https://example.com/images/sun-hat.jpg"
+    },
+    {
+      "id": 36,
+      "gender": ["male", "female"],
+      "type": "низ",
+      "name": "Leather Boots",
+      "price": "6900Р",
+      "image": "https://example.com/images/leather-boots.jpg"
+    },
+    {
+      "id": 37,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Wool Socks",
+      "price": "1800Р",
+      "image": "https://example.com/images/wool-socks.jpg"
+    },
+    {
+      "id": 38,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Pearl Necklace",
+      "price": "4500Р",
+      "image": "https://example.com/images/pearl-necklace.jpg"
+    },
+    {
+      "id": 39,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Diamond Earrings",
+      "price": "8700Р",
+      "image": "https://example.com/images/diamond-earrings.jpg"
+    },
+    {
+      "id": 40,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Canvas Belt",
+      "price": "2500Р",
+      "image": "https://example.com/images/canvas-belt.jpg"
+    },
+    {
+      "id": 41,
+      "gender": ["female"],
+      "type": "вверх",
+      "name": "Silk Scarf",
+      "price": "3600Р",
+      "image": "https://example.com/images/silk-scarf.jpg"
+    },
+    {
+      "id": 42,
+      "gender": ["male", "female"],
+      "type": "верх",
+      "name": "Winter Gloves",
+      "price": "3200Р",
+      "image": "https://example.com/images/winter-gloves.jpg"
+    },
+    {
+      "id": 43,
+      "gender": ["male"],
+      "type": "низ",
+      "name": "Leather Shoes",
+      "price": "6200Р",
+      "image": "https://example.com/images/leather-shoes.jpg"
+    },
+    {
+      "id": 44,
+      "gender": ["female"],
+      "type": "низ",
+      "name": "Lace Blouse",
+      "price": "5900Р",
+      "image": "https://example.com/images/lace-blouse.jpg"
+    },
+    {
+      "id": 45,
+      "gender": ["male", "female"],
+      "type": "вверх",
+      "name": "Striped Sweater",
+      "price": "4800Р",
+      "image": "https://example.com/images/striped-sweater.jpg"
+    }
+  ]
+}
