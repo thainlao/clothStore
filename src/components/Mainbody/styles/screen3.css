@@ -1,4 +1,55 @@
 .screen3 {
-    min-height: 100vh;
+    background-image: url('https://uploads-ssl.webflow.com/63fd0282d1adef725d6cb031/645366502ac3c3e145b0949a_image-02.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+
+.screen3_main_text {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5rem;
+    cursor: pointer;
+}
+
+.screen2_tipe {
+    height: 40vh;
     background-color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.tipe-main {
+    color: black;
+    font-size: 4rem;
+    text-align: justify;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.tipe-grey {
+    color: grey;
+    font-size: 2rem;
+    max-width: 550px;
+    white-space: auto;
+}
+
+.dark-bg {
+    width: 60%;
+    height: 40%;
+    opacity: .4;
+    filter: blur(80px);
+    background-color: #0f0f42;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

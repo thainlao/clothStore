@@ -35,6 +35,12 @@ const Screen2 = () => {
                     <p className="line_with_text">#ecrustle</p>
                     <p className="line_with_text">#ecrugang</p>
                 </div>
+
+                <div className='screen2_tipe'>
+                    <p className='tipe-main'>собери свой образ ECRU</p>
+                    <p className='tipe-grey'>делись им с хештегами #ecrustyle, #ecrugang и отмечай @ecrubrand в социальных сетях</p>
+                </div>
+
             </div>
         </div>
     )

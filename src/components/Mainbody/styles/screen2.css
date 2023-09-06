@@ -113,13 +113,13 @@
     font-family: Pretendard,sans-serif;
     color: white;
     font-size: 4rem;
-    animation: scrollText 33s infinite linear;
-    transform: translate(0);
+    animation: scrollText 33s infinite cubic-bezier(0.42, 0, 0.58, 1);
+    white-space: nowrap;
 }
 
 @keyframes scrollText {
-    from { transform: translateX(0%); }
-    to { transform: translateX(-100%); }
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
   }
 
 .line_with_{
@@ -131,4 +131,5 @@
     gap: 3rem;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
 }
