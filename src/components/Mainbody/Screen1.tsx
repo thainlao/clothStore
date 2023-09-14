@@ -1,6 +1,7 @@
-import React, {useEffect, useState} from "react";
+import {useEffect, useState} from "react";
 import './styles/mainbody.css';
 import './styles/header.css';
+import { Link } from "react-router-dom";
 
 const Screen1 = () => {
     const [scrolled, setScrolled] = useState(false);
@@ -26,8 +27,8 @@ const Screen1 = () => {
 
     <div className={`header ${scrolled ? 'scrolled' : ''}`}>
       <h2 className='header_main_text'>THAINLAO</h2>
-      <p className='header_subtext'>коллекции</p>
-      <p style={{marginRight: '20px'}} className='header_subtext'>магазин</p>
+      <Link to='/store' className='header_subtext'>коллекции</Link>
+      <Link to='/store' style={{marginRight: '20px'}} className='header_subtext'>магазин</Link>
     </div>
 
             <img className="img_screen1" src="https://images.hdqwalls.com/download/2023-kendall-jenner-own-denim-fall-cu-1920x1080.jpg"/>
